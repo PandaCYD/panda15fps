@@ -45,10 +45,10 @@ try {
 
 	$mail->Send();
 
-	echo 'Message has been sent';
+	echo 'El mensaje ha sido enviado';
 
 } catch (Exception $e) {
 
-	echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
+	echo "No se pudo enviar el mensaje. Error de correo.: {$mail->ErrorInfo}";
 
 }
