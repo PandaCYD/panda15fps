@@ -8,8 +8,8 @@ require 'php/PHPMailer-5.2.28/src/PHPMailer.php';
 require 'php/PHPMailer-5.2.28/src/SMTP.php';
 
 $mail = new PHPMailer(true);
-$mail_to_email = 'pandacyd.developer@gmail.com'; // your email
-$mail_to_name = 'Panda Support';
+$mail_to_email = '######'; // your email
+$mail_to_name = '######';
 
 try {
 
@@ -20,10 +20,10 @@ try {
 
 	// Server settings
 	$mail->isSMTP(); // Send using SMTP
-	$mail->Host = 'smtp.gmail.com'; // Set the SMTP server to send through
+	$mail->Host = 'smtp.#####.com'; // Set the SMTP server to send through
 	$mail->SMTPAuth = true; // Enable SMTP authentication
-	$mail->Username = 'panda15fps@gmail.com'; // SMTP username
-	$mail->Password = 'pvquscytcycnbpvz'; // SMTP password
+	$mail->Username = '#####'; // SMTP username
+	$mail->Password = '#####'; // SMTP password
 	$mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS; // Enable TLS encryption; `PHPMailer::ENCRYPTION_SMTPS` encouraged
 	$mail->Port = 465; // TCP port to connect to, use 465 for `PHPMailer::ENCRYPTION_SMTPS` above
 
