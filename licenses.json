@@ -1,0 +1,16 @@
+{
+    "licenses": [
+      {
+        "userId": 3405128485,
+        "groups": [35905621, 35905624],
+        "createdAt": "2024-05-20",
+        "active": true
+      },
+      {
+        "userId": 1234567890,
+        "groups": [35897187],
+        "createdAt": "2024-05-21",
+        "active": false
+      }
+    ]
+  }
