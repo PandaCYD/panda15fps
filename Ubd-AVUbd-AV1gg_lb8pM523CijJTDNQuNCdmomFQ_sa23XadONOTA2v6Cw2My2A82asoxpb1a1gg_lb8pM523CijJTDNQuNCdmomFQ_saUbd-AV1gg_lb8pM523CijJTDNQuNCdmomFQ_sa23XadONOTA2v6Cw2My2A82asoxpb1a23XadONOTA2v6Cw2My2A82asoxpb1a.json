@@ -2,7 +2,7 @@
     "licenses": [
       {
         "userId": 3405128485,
-        "groups": [35905621, 35905624],
+        "groups": [35905621,35905624],
         "createdAt": "2024-05-20",
         "active": true
       },
@@ -54,6 +54,21 @@
         "createdAt": "2025-09-10",
         "active": true
       },
+
+      {
+        "userId": 8835964593,
+        "groups": [366120439],
+        "createdAt": "2025-09-22",
+        "active": true
+      },
+
+      {
+        "userId": 5613310852,
+        "groups": [212531282],
+        "createdAt": "2025-09-22",
+        "active": true
+      },
+
       {
         "userId": 4143661356,
         "groups": [35890512],
