@@ -2,13 +2,31 @@
     "licenses": [
       {
         "userId": 3405128485,
-        "groups": [35905621, 35905624,35165983,14515571,33737137,35978361,33718191,36067278],
+        "groups": [35905621, 35905624],
         "createdAt": "2024-05-20",
         "active": true
       },
       {
-        "userId": 7640527599,
-        "groups": [35410972],
+        "userId": 5403390286,
+        "groups": [35978361,33718191],
+        "createdAt": "2025-09-01",
+        "active": true
+      },
+      {
+        "userId": 1501028746,
+        "groups": [33737137],
+        "createdAt": "2025-09-01",
+        "active": true
+      },
+      {
+        "userId": 3291539951,
+        "groups": [14515571],
+        "createdAt": "2025-09-01",
+        "active": true
+      },
+      {
+        "userId": 7790559316,
+        "groups": [35165983],
         "createdAt": "2025-09-01",
         "active": true
       },
@@ -37,21 +55,9 @@
         "active": true
       },
       {
-        "userId": 5403390286,
-        "groups": [5403390286,5403390286,130760688616588],
-        "createdAt": "2024-05-21",
-        "active": true
-      },
-      {
         "userId": 4143661356,
         "groups": [35890512],
         "createdAt": "2024-05-21",
-        "active": true
-      },
-      {
-        "userId": 8300332400,
-        "groups": [694763964],
-        "createdAt": "2025-07-12",
         "active": true
       }
     ]
