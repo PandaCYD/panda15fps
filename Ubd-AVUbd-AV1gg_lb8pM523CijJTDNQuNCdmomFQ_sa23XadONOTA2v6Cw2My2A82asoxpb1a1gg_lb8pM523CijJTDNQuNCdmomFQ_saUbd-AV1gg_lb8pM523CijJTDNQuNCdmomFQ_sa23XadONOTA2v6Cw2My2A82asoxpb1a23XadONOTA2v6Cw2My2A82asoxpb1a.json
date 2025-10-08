@@ -74,6 +74,13 @@
         "groups": [35890512],
         "createdAt": "2024-05-21",
         "active": true
+      },
+
+      {
+        "userId": 9315350242,
+        "groups": [35995505],
+        "createdAt": "2025-10-08",
+        "active": true
       }
     ]
   }
