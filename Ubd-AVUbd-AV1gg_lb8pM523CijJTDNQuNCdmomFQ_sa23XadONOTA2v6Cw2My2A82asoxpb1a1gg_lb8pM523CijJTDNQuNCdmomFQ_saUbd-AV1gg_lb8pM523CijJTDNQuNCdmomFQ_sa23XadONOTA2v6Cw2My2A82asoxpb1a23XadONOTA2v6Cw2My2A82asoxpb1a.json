@@ -88,6 +88,13 @@
         "groups": [803337465],
         "createdAt": "2025-10-08",
         "active": true
+      },
+
+      {
+        "userId": 7770068844,
+        "groups": [35392016],
+        "createdAt": "2025-10-08",
+        "active": true
       }
     ]
   }
