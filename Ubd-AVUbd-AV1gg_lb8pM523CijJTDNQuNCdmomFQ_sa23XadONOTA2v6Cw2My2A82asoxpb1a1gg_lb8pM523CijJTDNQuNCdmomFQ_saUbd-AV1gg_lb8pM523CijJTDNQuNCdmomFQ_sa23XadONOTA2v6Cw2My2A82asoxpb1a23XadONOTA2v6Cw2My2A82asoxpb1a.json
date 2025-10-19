@@ -102,6 +102,13 @@
         "groups": [16945075],
         "createdAt": "2025-10-12",
         "active": true
+      },
+
+      {
+        "userId": 4501084652,
+        "groups": [696964444],
+        "createdAt": "2025-10-18",
+        "active": true
       }
     ]
   }
