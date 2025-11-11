@@ -123,6 +123,13 @@
         "groups": [35712251],
         "createdAt": "2025-11-03",
         "active": true
+      },
+
+      {
+        "userId": 3105211976,
+        "groups": [8000189],
+        "createdAt": "2025-11-11",
+        "active": true
       }
     ]
   }
