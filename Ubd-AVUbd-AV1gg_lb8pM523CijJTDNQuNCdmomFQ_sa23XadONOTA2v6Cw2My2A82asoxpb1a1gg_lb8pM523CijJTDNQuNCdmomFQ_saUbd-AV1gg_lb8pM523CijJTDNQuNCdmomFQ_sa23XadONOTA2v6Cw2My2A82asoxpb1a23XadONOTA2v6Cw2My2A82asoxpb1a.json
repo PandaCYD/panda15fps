@@ -1,1 +1,135 @@
-XD
+{
+    "licenses": [
+      {
+        "userId": 3405128485,
+        "groups": [35905621,35905624],
+        "createdAt": "2024-05-20",
+        "active": true
+      },
+      {
+        "userId": 5403390286,
+        "groups": [35978361,33718191],
+        "createdAt": "2025-09-01",
+        "active": true
+      },
+      {
+        "userId": 1501028746,
+        "groups": [33737137],
+        "createdAt": "2025-09-01",
+        "active": true
+      },
+      {
+        "userId": 3291539951,
+        "groups": [14515571],
+        "createdAt": "2025-09-01",
+        "active": true
+      },
+      {
+        "userId": 7790559316,
+        "groups": [35165983],
+        "createdAt": "2025-09-01",
+        "active": true
+      },
+      {
+        "userId": 7875141927,
+        "groups": [35053370],
+        "createdAt": "2024-05-21",
+        "active": true
+      },
+      {
+        "userId": 4156818406,
+        "groups": [687761621],
+        "createdAt": "2025-09-19",
+        "active": true
+      },
+      {
+        "userId": 7847021734,
+        "groups": [559527235],
+        "createdAt": "2025-09-09",
+        "active": true
+      },
+      {
+        "userId": 5613310852,
+        "groups": [36091766],
+        "createdAt": "2025-09-10",
+        "active": true
+      },
+
+      {
+        "userId": 8835964593,
+        "groups": [366120439],
+        "createdAt": "2025-09-22",
+        "active": true
+      },
+
+      {
+        "userId": 5613310852,
+        "groups": [212531282],
+        "createdAt": "2025-09-22",
+        "active": true
+      },
+
+      {
+        "userId": 4143661356,
+        "groups": [35890512],
+        "createdAt": "2024-05-21",
+        "active": true
+      },
+
+      {
+        "userId": 9315350242,
+        "groups": [35995505],
+        "createdAt": "2025-10-08",
+        "active": true
+      },
+
+      {
+        "userId": 7918215630,
+        "groups": [803337465],
+        "createdAt": "2025-10-08",
+        "active": true
+      },
+
+      {
+        "userId": 7770068844,
+        "groups": [35392016],
+        "createdAt": "2025-10-12",
+        "active": true
+      },
+
+      {
+        "userId": 2133683,
+        "groups": [16945075],
+        "createdAt": "2025-10-12",
+        "active": true
+      },
+
+      {
+        "userId": 4501084652,
+        "groups": [696964444],
+        "createdAt": "2025-10-18",
+        "active": true
+      },
+
+      {
+        "userId": 7881828285,
+        "groups": [56647961],
+        "createdAt": "2025-10-25",
+        "active": true
+      },
+
+      {
+        "userId": 1836329833,
+        "groups": [35712251],
+        "createdAt": "2025-11-03",
+        "active": true
+      },
+
+      {
+        "userId": 3105211976,
+        "groups": [8000189],
+        "createdAt": "2025-11-11",
+        "active": true
+      }
+    ]
+  }
