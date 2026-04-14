@@ -1,0 +1,19 @@
+{
+  "gameName": "Neon Studio's [NS]",
+  "latestVersion": "v1.0",
+  "contact": {
+    "discord": "https://discord.gg/6r2J4mpxXC",
+    "group": "https://www.roblox.com/communities/244262448",
+    "web": "https://panda15fps.com",
+    "user": "Panda15Fps"
+  },
+  "updates": [
+    {
+      "version": "v1.0",
+      "date": "01/02/26",
+      "changes": [
+        "Lanzamiento oficial del juego"
+      ]
+    }
+  ]
+}
