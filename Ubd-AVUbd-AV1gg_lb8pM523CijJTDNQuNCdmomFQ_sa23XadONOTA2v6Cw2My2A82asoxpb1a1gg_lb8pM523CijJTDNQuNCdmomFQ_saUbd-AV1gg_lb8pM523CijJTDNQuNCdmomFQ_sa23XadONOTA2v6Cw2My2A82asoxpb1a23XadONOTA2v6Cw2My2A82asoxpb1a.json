@@ -144,13 +144,6 @@
         "groups": [192182803],
         "createdAt": "2026-01-03",
         "active": true
-      },
-
-      {
-        "userId": 8011010318,
-        "groups": [958737634],
-        "createdAt": "2026-02-17",
-        "active": true
       }
     ]
   }
