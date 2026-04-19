@@ -48,23 +48,10 @@
         "createdAt": "2025-09-09",
         "active": true
       },
-      {
-        "userId": 5613310852,
-        "groups": [36091766],
-        "createdAt": "2025-09-10",
-        "active": true
-      },
 
       {
         "userId": 8835964593,
         "groups": [366120439],
-        "createdAt": "2025-09-22",
-        "active": true
-      },
-
-      {
-        "userId": 5613310852,
-        "groups": [212531282],
         "createdAt": "2025-09-22",
         "active": true
       },
